@@ -7,7 +7,7 @@
 
 <br>
 
-<iframe width="100%" height="415"src="//player.bilibili.com/player.html?isOutside=true&aid=113621145229540&bvid=BV13rqcYsEZi&cid=25728062937&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415"src="//player.bilibili.com/player.html?isOutside=true&aid=113621145229540&bvid=BV13rqcYsEZi&cid=25728062937&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 <br>
@@ -20,4 +20,4 @@
 
 <br>
 
-<iframe width="100%" height="415"src="//player.bilibili.com/player.html?isOutside=true&aid=113643777760927&bvid=BV1e2qzYvEGM&cid=27316519391&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415"src="//player.bilibili.com/player.html?isOutside=true&aid=113643777760927&bvid=BV1e2qzYvEGM&cid=27316519391&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

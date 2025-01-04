@@ -1,7 +1,7 @@
-# 【ATRI&GINKA拜年祭】料理征集活动！
-
+# 【ATRI&GINKA拜年祭】料理征集活动
 
 ## **内容概述**
+
 <br>
 
 >此次料理征集为**冬夏凝思**——**2025ATRI&GINKA拜年祭**的中的一个小活动，是关于**料理制作**的料理**稿件征集活动**！
@@ -13,11 +13,13 @@
 <br>
 
 ![](./img/img-1.webp)
+
 <br>
 
 ---
 
 ## **活动初衷**
+
 <br>
 
 > 此活动源自于**ATRI&GINKA**中的**料理**情节，是意在为更多的人**提供参与拜年祭活动的渠道**，让更多的人拥有参与到今年的拜年祭活动中的**机会**，**而发起的**一项活动！
@@ -25,9 +27,11 @@
 <br>
 
 > 料理的**形式、内容**没有任何限制！无论你是对于料理颇有经验的 **「水菜萌部长」** 还是遇厨房剧烈反应的 **「萝卜子」**，都非常欢迎参与到此投稿活动中来！
+
 <br>
 
 > 既然没有做过，那**不妨试试**吧！**JUST DO IT**!
+
 <br>
 
 ![](./img/img-2.webp)
@@ -55,6 +59,7 @@
 ---
 
 ## 关于料理
+
 <br>
 
 > 此活动不对投稿料理**作任何限制**，同时也并非**只欢迎**那些色香味俱全的料理，因为初衷便是为了让大家都能**尽可能参与其中**，为今年的拜年祭活动多增添一些“**年味**”，即便普通乃至糟糕，也都是大家的**努力成果与心意**！都是绝对地欢迎！
@@ -76,6 +81,7 @@
 ---
 
 ## 宣传视频
+
 <br>
 
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113598915481777&bvid=BV1KWidYaEyG&cid=25721772539&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113598915481777&bvid=BV1KWidYaEyG&cid=25721772539&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

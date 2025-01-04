@@ -22,14 +22,14 @@
 - [青涩的萝卜子——2024-08-26](https://www.bilibili.com/video/BV1ENWmeEENv)
 
 <br>
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1551693670&bvid=BV1wy421v7ve&cid=1466988507&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1551693670&bvid=BV1wy421v7ve&cid=1466988507&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <br>
 
 <details>
   <summary style="background-color:rgb(207, 211, 249);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">查看更多</summary>
   <br>
 
-  <iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113025738606647&bvid=BV1ENWmeEENv&cid=500001662383099&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113025738606647&bvid=BV1ENWmeEENv&cid=500001662383099&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
   
 </details>
 
@@ -39,7 +39,7 @@
 
 <br>
 
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=324091944&bvid=BV11w41187PX&cid=1350261910&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=324091944&bvid=BV11w41187PX&cid=1350261910&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -49,7 +49,7 @@
 
 <br>
 
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1206003233&bvid=BV1Mf421z7zh&cid=1614639610&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1206003233&bvid=BV1Mf421z7zh&cid=1614639610&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -60,7 +60,7 @@
 
 <br>
 
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=926803669&bvid=BV1TT4y1L7hh&cid=227708528&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=926803669&bvid=BV1TT4y1L7hh&cid=227708528&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -68,14 +68,14 @@
   <summary style="background-color:rgb(207, 211, 249);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">查看更多</summary>
   <br>
 
-  <iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=781018350&bvid=BV1c24y1u7wN&cid=1054723294&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=781018350&bvid=BV1c24y1u7wN&cid=1054723294&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 
 ## WOTA艺
 
 - [【WOTA艺】あの光【ATRI -My Dear Moments-】——2024-09-23](https://www.bilibili.com/video/BV1ubsyeFEQq)
 
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113182320500487&bvid=BV1ubsyeFEQq&cid=25964777243&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113182320500487&bvid=BV1ubsyeFEQq&cid=25964777243&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -86,7 +86,7 @@
 
 <br>
 
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113233440609088&bvid=BV1wt4AeiENk&cid=26099190791&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113233440609088&bvid=BV1wt4AeiENk&cid=26099190791&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## DIY
 
@@ -95,7 +95,7 @@
 
 <br>
 
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113294241236821&bvid=BV1D32hYfEPC&cid=26258639975&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113294241236821&bvid=BV1D32hYfEPC&cid=26258639975&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -103,6 +103,6 @@
   <summary style="background-color:rgb(207, 211, 249);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">查看更多</summary>
   <br>
 
-  <iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=962793753&bvid=BV1CH4y1r7y1&cid=1317667066&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=962793753&bvid=BV1CH4y1r7y1&cid=1317667066&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 

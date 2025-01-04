@@ -32,7 +32,7 @@
 
 <br>
 
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1150636003&bvid=BV1ZZ42127FS&cid=1438277950&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1150636003&bvid=BV1ZZ42127FS&cid=1438277950&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
