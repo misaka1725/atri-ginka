@@ -22,14 +22,14 @@
 - [废废废废旧机器人——2024-10-06](https://www.bilibili.com/video/BV1SR1eYAEeH)
 
 <br>
-<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113327829295005&bvid=BV1hYC1YcEZd&cid=26346259647&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113327829295005&bvid=BV1hYC1YcEZd&cid=26346259647&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <br>
 
 <details>
   <summary style="background-color:rgb(207, 211, 249);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">查看更多</summary>
   <br>
 
-  <iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113259009020780&bvid=BV1SR1eYAEeH&cid=26164922964&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+  <iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113259009020780&bvid=BV1SR1eYAEeH&cid=26164922964&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 
 ## 音乐
@@ -39,7 +39,7 @@
 
 <br>
 
-<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1256168931&bvid=BV1aJ4m1M7RC&cid=1613340950&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1256168931&bvid=BV1aJ4m1M7RC&cid=1613340950&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -47,7 +47,7 @@
   <summary style="background-color:rgb(207, 211, 249);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">查看更多</summary>
   <br>
 
-  <iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1155514772&bvid=BV1qZ421p7Uu&cid=1576386641&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+  <iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1155514772&bvid=BV1qZ421p7Uu&cid=1576386641&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 
 ## MAD
@@ -57,7 +57,7 @@
 
 <br>
 
-<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=942425796&bvid=BV1PW4y1t7Le&cid=817144267&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=942425796&bvid=BV1PW4y1t7Le&cid=817144267&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -65,7 +65,7 @@
   <summary style="background-color:rgb(207, 211, 249);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">查看更多</summary>
   <br>
 
-  <iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113355327017950&bvid=BV1P7yZYXEoo&cid=26423725042&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+  <iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113355327017950&bvid=BV1P7yZYXEoo&cid=26423725042&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 
 ## 手工
@@ -74,7 +74,7 @@
 
 <br>
 
-<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113268119048429&bvid=BV1iz27YAE8F&cid=26210141145&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113268119048429&bvid=BV1iz27YAE8F&cid=26210141145&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## COS
 
@@ -83,7 +83,7 @@
 
 <br>
 
-<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1606395524&bvid=BV1vm42137J7&cid=1629218373&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=1606395524&bvid=BV1vm42137J7&cid=1629218373&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -91,7 +91,7 @@
   <summary style="background-color:rgb(207, 211, 249);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">查看更多</summary>
   <br>
 
-  <iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113311035169956&bvid=BV1vQ2ZYjE9L&cid=26302415257&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+  <iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113311035169956&bvid=BV1vQ2ZYjE9L&cid=26302415257&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 
 ## 杂谈向
@@ -100,4 +100,4 @@
 
 <br>
 
-<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113300113332607&bvid=BV1Bh2BYFERm&cid=26274890997&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe loading="lazy">
+<iframe loading="lazy" width="100%" height="415" src="//player.bilibili.com/player.html?isOutside=true&aid=113300113332607&bvid=BV1Bh2BYFERm&cid=26274890997&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
