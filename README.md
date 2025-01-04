@@ -2,4 +2,4 @@
 
 A simple website use vitepress
 
-modify from kun.moe
+modify from soft.moe
