@@ -12,7 +12,7 @@
 
 <br>
 
-![](./img/img-1.webp)
+![](./img/img-1.avif)
 
 <br>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-![](./img/img-2.webp)
+![](./img/img-2.avif)
 
 <br>
 
@@ -52,7 +52,7 @@
 
 <br>
 
-![](./img/img-3.webp)
+![](./img/img-3.avif)
 
 <br>
 
@@ -74,7 +74,7 @@
 
 <br>
 
-![](./img/img-4.webp)
+![](./img/img-4.avif)
 
 <br>
 
